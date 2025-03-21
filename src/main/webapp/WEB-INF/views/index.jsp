@@ -8,5 +8,6 @@
     <h1>Hi, there (updated by J.Park)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 5.0.0</h3>
+    <h3>LG CNS AN Inspire Camp J.Park</h3>
 </body>
 </html>
